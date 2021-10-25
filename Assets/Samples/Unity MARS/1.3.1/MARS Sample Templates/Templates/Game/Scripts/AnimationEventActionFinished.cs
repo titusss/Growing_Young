@@ -9,6 +9,8 @@ namespace Unity.MARS.Templates
     {
         void ActionFinished();
     }
+   
+
 
     /// <summary>
     /// Calls the 'ActionFinished' function on any supported monobehaviour when the target animation exits

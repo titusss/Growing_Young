@@ -128,16 +128,16 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _HorizonDistance: 7.6
-    - _IntersectionClipping: 0.428
-    - _IntersectionFalloff: 1
-    - _IntersectionLength: 1.62
+    - _IntersectionClipping: 0.443
+    - _IntersectionFalloff: 0.786
+    - _IntersectionLength: 1.55
     - _IntersectionRippleDist: 64
     - _IntersectionRippleStrength: 0.355
     - _IntersectionSize: 0.944
     - _IntersectionSource: 0
     - _IntersectionSpeed: 0.06000001
     - _IntersectionStyle: 1
-    - _IntersectionTiling: 0.16999984
+    - _IntersectionTiling: 1.0699999
     - _IntersectionWaveDist: 33.28
     - _LightingMode: 0
     - _Metallic: 0
@@ -151,7 +151,7 @@ Material:
     - _OcclusionStrength: 1
     - _PlanarReflectionsEnabled: 0
     - _PlanarReflectionsParams: 0
-    - _PointSpotLightReflectionExp: 64
+    - _PointSpotLightReflectionExp: 56
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _ReflectionBlur: 0
@@ -177,18 +177,18 @@ Material:
     - _SparkleSize: 0.497
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _SunReflectionDistortion: 0.49
+    - _SunReflectionDistortion: 0.562
     - _SunReflectionPerturbance: 0.548
-    - _SunReflectionSize: 0.943
-    - _SunReflectionStrength: 1
+    - _SunReflectionSize: 0.424
+    - _SunReflectionStrength: 8.96
     - _Surface: 0
     - _TEXTURE_INTERSECTIONOn: 0
     - _Texture_IntersectionOn: 1
     - _Tiling: 0.5
     - _Translucency: 0
-    - _WaveCount: 1
+    - _WaveCount: 2
     - _WaveDistance: 0.763
-    - _WaveHeight: 0
+    - _WaveHeight: 0.17
     - _WaveNormalStr: 0.291
     - _WaveSpeed: 1
     - _WaveSteepness: 0
@@ -206,7 +206,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0.09803922}
     - _HorizonColor: {r: 0.2352941, g: 0.9051294, b: 1, a: 1}
-    - _IntersectionColor: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}
+    - _IntersectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShallowColor: {r: 0.24307072, g: 0.57305896, b: 0.745283, a: 0.39607844}
     - _SlopeParams: {r: 0.5, g: 4, b: 0, a: 0}
