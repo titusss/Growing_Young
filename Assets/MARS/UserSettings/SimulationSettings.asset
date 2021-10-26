@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SimulationSettings
   m_EditorClassIdentifier: 
   m_EnvironmentMode: 0
-  m_EnvironmentPrefab: {fileID: 4033279824830409645, guid: 44ffecd288e7dab4bb4e5c1cd7c2d69f,
+  m_EnvironmentPrefab: {fileID: 1698703522530896331, guid: 22bc272c40783d24e97fe05d24f13839,
     type: 3}
   m_IndependentRecording: {fileID: 604121681969238689, guid: 1d74ae577149fec479d10968d697b303,
     type: 2}
@@ -23,15 +23,21 @@ MonoBehaviour:
   m_AutoResetDevicePose: 0
   m_AutoSyncWithSceneChanges: 1
   m_TimeToFinalizeSceneModification: 0.3
-  m_ShowSimulatedEnvironment: 0
+  m_ShowSimulatedEnvironment: 1
   m_ShowSimulatedData: 0
   m_SyntheticPrefabs:
   - {fileID: 4033279824830409645, guid: 909f2ab63b9b4ea4b8fe717106d824ad, type: 3}
   - {fileID: 8677927400399922054, guid: 8c18fbdb1ace7d94b8dad7031d70e8d3, type: 3}
   - {fileID: 5430835068141665080, guid: 030743e0e0ba25f49809730c95e0242a, type: 3}
+  - {fileID: 4033279824830409645, guid: 5f4bc42a9c8de1d4e8d04d004ea81f1d, type: 3}
+  - {fileID: 8842492908595114926, guid: 347ce2ecfde727640b5180f703ddcfc8, type: 3}
+  - {fileID: 2327905570123313740, guid: 523cdb1ac75549240a88262374668b33, type: 3}
   m_SyntheticRecordings:
   - {fileID: 7451220477654342660, guid: 40566a2a3e4e2a74db0f68bd7b1eb11a, type: 2}
   - {fileID: 3075199065177920679, guid: 30a022c7cfcf7fe41996e4335d9019d6, type: 2}
   - {fileID: 4360023052754472758, guid: 06d6fe6dd5a38c949bc27a84a8bd4bfd, type: 2}
+  - {fileID: -5104384130775512487, guid: 1fb9ba2be55aad94c92f7cee2be67709, type: 2}
+  - {fileID: 1173369172881213795, guid: bd1c77b2631ee6447b32a80d585336c0, type: 2}
+  - {fileID: 6289526993872342364, guid: b86d12a842c774645976d6935d3e0011, type: 2}
   m_UserFacingEnvironmentMode: 1
   m_WorldFacingEnvironmentMode: 0

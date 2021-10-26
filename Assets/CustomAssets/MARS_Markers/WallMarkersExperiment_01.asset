@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: WallMarkersExperiment_01
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 0.4, y: 0.4}
+    m_Label: tunnel
+    m_Texture: {fileID: 2800000, guid: d47d092804d84c9459e790de7904c524, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4951714378919874283
+      m_GuidHigh: 9824241453629179527
+  - m_SpecifySize: 1
+    m_Size: {x: 0.4, y: 0.4}
+    m_Label: stars
+    m_Texture: {fileID: 2800000, guid: 7f706592e7db71441aa47778b4e0dd83, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4907551055856814993
+      m_GuidHigh: 6413620840809870502
+  - m_SpecifySize: 1
+    m_Size: {x: 0.4, y: 0.4}
+    m_Label: fox
+    m_Texture: {fileID: 2800000, guid: 435b9fd86d38dc843ab9eb034b33a667, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4790734389075874826
+      m_GuidHigh: 10920586016990536605
+  - m_SpecifySize: 1
+    m_Size: {x: 0.4, y: 0.4}
+    m_Label: gras
+    m_Texture: {fileID: 2800000, guid: 6d0958137a5f47145a078e46ee4dac62, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5241186825212764837
+      m_GuidHigh: 2365251127293178275
+  - m_SpecifySize: 1
+    m_Size: {x: 0.4, y: 0.4}
+    m_Label: water
+    m_Texture: {fileID: 2800000, guid: 75dbf6061f19d534abfa9a01183f1097, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4746303332277155067
+      m_GuidHigh: 11308440813011611290
