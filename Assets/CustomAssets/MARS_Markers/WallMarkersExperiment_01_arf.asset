@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 5518040772760111400
       m_GuidHigh: 2649528877248997209
-    m_Size: {x: 0.4, y: 0.4}
+    m_Size: {x: 0.21, y: 0.21}
     m_SpecifySize: 1
     m_Name: tunnel
     m_Texture: {fileID: 2800000, guid: d47d092804d84c9459e790de7904c524, type: 3}
