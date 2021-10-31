@@ -53,7 +53,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 5121853226496907283
       m_GuidHigh: 7110143597492438874
-    m_Size: {x: 0.4, y: 0.4}
+    m_Size: {x: 0.21, y: 0.21}
     m_SpecifySize: 1
     m_Name: gras
     m_Texture: {fileID: 2800000, guid: 6d0958137a5f47145a078e46ee4dac62, type: 3}

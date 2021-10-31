@@ -35,7 +35,7 @@ MonoBehaviour:
       m_GuidLow: 4790734389075874826
       m_GuidHigh: 10920586016990536605
   - m_SpecifySize: 1
-    m_Size: {x: 0.4, y: 0.4}
+    m_Size: {x: 0.21, y: 0.21}
     m_Label: gras
     m_Texture: {fileID: 2800000, guid: 6d0958137a5f47145a078e46ee4dac62, type: 3}
     m_MarkerDefinitionId:

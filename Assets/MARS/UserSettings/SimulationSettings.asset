@@ -23,7 +23,7 @@ MonoBehaviour:
   m_AutoResetDevicePose: 0
   m_AutoSyncWithSceneChanges: 1
   m_TimeToFinalizeSceneModification: 0.3
-  m_ShowSimulatedEnvironment: 1
+  m_ShowSimulatedEnvironment: 0
   m_ShowSimulatedData: 0
   m_SyntheticPrefabs:
   - {fileID: 4033279824830409645, guid: 909f2ab63b9b4ea4b8fe717106d824ad, type: 3}

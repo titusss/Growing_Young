@@ -36,6 +36,19 @@ MonoBehaviour:
   m_Name: DepthNormals
   m_EditorClassIdentifier: 
   m_Active: 0
+--- !u!114 &-6179150419403919878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ae4d376c05df421b98c5b39b25b0d29, type: 3}
+  m_Name: NewARBackgroundRendererFeature
+  m_EditorClassIdentifier: 
+  m_Active: 1
 --- !u!114 &-6133683532679811581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88,7 +101,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_RendererFeatures:
   - {fileID: -4427534551421501743}
-  m_RendererFeatureMap: d1bec097c83c8ec2
+  - {fileID: -6179150419403919878}
+  m_RendererFeatureMap: d1bec097c83c8ec2fa2db99d6e3f3faa
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
   shaders:
@@ -97,6 +111,8 @@ MonoBehaviour:
     screenSpaceShadowPS: {fileID: 4800000, guid: 0f854b35a0cf61a429bd5dcfea30eddd,
       type: 3}
     samplingPS: {fileID: 4800000, guid: 04c410c9937594faa893a11dceb85f7e, type: 3}
+    tileDepthInfoPS: {fileID: 0}
+    tileDeferredPS: {fileID: 0}
     stencilDeferredPS: {fileID: 4800000, guid: e9155b26e1bc55942a41e518703fe304, type: 3}
     fallbackErrorPS: {fileID: 4800000, guid: e6e9a19c3678ded42a3bc431ebef7dbd, type: 3}
     materialErrorPS: {fileID: 4800000, guid: 5fd9a8feb75a4b5894c241777f519d4e, type: 3}
